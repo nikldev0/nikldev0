@@ -31,7 +31,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikldev0&show_icons=true&hide_border=true" />
 
 [website]: https://nikhil-k.dev/
 [twitter]: https://twitter.com/nikl_0
