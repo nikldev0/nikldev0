@@ -3,7 +3,7 @@
 ## I'm a Junior Developer and lifelong learner!
 
 - 🔭 I’m currently working on a website for a local restaurant, using Bootstrap 4.5!
-- 🌱 I’m currently learning Javascript and Tailwind CSS.
+- 🌱 I’m currently learning React and Tailwind CSS.
 - 👯 I’m looking to collaborate with other junior developers and/or designers.
 - 🥅 2020 Goals: Contribute to Open Source projects and build with Javascript Frameworks.
 - ⚡ Fun fact: I love to read and play guitar.
