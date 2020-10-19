@@ -2,7 +2,7 @@
 
 ## I'm a Junior Developer and lifelong learner!
 
-- 🔭 I’m currently working on a website for a local restaurant, using Bootstrap 4.5!
+- 🔭 I’m currently learning React.js
 - 🌱 I’m currently improving my JavaScript knowledge and learning Tailwind CSS.
 - 👯 I’m looking to collaborate with other junior developers and/or designers.
 - 🥅 2020 Goals: Contribute to Open Source projects and build with Javascript Frameworks.
