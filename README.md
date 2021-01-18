@@ -1,4 +1,4 @@
-### Hi there, I'm Nikhil 👋
+### Hi, I'm Nikhil 👋
 
 ## I'm a Junior Developer and lifelong learner!
 
