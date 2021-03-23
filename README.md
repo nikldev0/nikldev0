@@ -1,12 +1,7 @@
 ### Hi, I'm Nikhil 👋
 
-## I'm a Junior Developer and lifelong learner!
+## I'm a Junior Developer @ Nightingale HQ
 
-- 🔭 I’m currently learning React.js
-- 🌱 I’m currently improving my JavaScript knowledge and learning Tailwind CSS.
-- 👯 I’m looking to collaborate with other junior developers and/or designers.
-- 🥅 2020 Goals: Contribute to Open Source projects and build with Javascript Frameworks.
-- ⚡ Fun fact: I love to read and play guitar.
 
 ### Connect with me:
 
@@ -37,7 +32,6 @@ src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-
 
 ---
 
-<img align="left" alt="Nikhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikldev0&show_icons=true&hide_border=true" />
 
 [website]: https://nikhil-k.dev/
 [twitter]: https://twitter.com/nikl_0
