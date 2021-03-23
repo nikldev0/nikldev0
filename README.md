@@ -1,6 +1,6 @@
 ### Hi, I'm Nikhil 👋
 
-## I'm a Junior Developer @ Nightingale HQ
+## I'm a Junior Software Engineer @ Nightingale HQ
 
 
 ### Connect with me:
